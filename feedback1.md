@@ -14,6 +14,8 @@ Ce qui te donne l’erreur suivante :
 
 ![](images étudiants/Etudiant 1/Etudiant 1 - Image 1.PNG)
 
+<img width="528" alt="Etudiant 1 - Image 1" src="https://user-images.githubusercontent.com/103057760/235799829-21b69cae-abec-48dc-bcf6-2776c186130a.PNG">
+
 
 On affiche un NaN à l’utilisateur dans ta page de résultat de recherche, 
 ce qui est un peu dommage vu que ton application marche très bien ;)
