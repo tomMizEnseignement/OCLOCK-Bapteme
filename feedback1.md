@@ -12,7 +12,7 @@ Cette addition essaye d’utiliser ta chaîne de caractères searchedElement com
 
 Ce qui te donne l’erreur suivante : 
 
-![](http://surl.li/gtqos)
+![](images étudiants/Etudiant 1/Etudiant 1 - Image 1.PNG)
 
 
 On affiche un NaN à l’utilisateur dans ta page de résultat de recherche, 
